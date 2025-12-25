@@ -21,4 +21,25 @@ console.log(valueInScore);
 // true => 1; false => 0
 // 1 => true; 0 => false
 // "" => false
-// "hitesh" => true
+// "hitesh" => 
+// *************** Operations *******************
+let value = 33;
+let negValue = -value;
+console.log(negValue);
+// console.log(2 + 2)
+// console.log(2 - 2)
+// console.log(2 * 2) ;
+// console.log(2 ^ 3) ;
+// console.log(2/3)
+// console.log(2%3);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1"+ 2 + 2 ) ;
+console.log( 1 + 2 +"2") ;
+console.log(+true);
+console.log(+"");
+let num;
+console.log(num);
+//link to study
+//https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
