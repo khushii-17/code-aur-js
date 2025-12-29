@@ -122,3 +122,5 @@ console.log(courseInstructor);
 //     {},
 //     {}
 // ]
+
+//Object key ko koi na koi value deni hi padti hai (even undefined).
